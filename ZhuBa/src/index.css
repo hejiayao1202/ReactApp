@@ -1,0 +1,39 @@
+/* 首页 */
+.placeholder_head{
+    background-color:"#eeeeee";
+    height: 140px;
+    padding:10px 0 10px 0;
+    width: 100%;
+}
+.placeholder {
+    background-color: #fff;
+    color: #000;
+    font-size: 20px;
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+  }
+  .placeholder_two{
+    /* background:url("./img/hot.jpg") no-repeat center center; */
+    /* background-size:auto; */
+    color: white;
+    font-size: 15px;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    margin-bottom: 15px;
+  }
+
+/* 商城 */
+.buy_placeholder1{
+  width:165px;
+  height: 120px;
+  float: left;
+  border-radius: 3px;
+}
+.buy_placeholder2{
+  width:165px;
+  height: 120px;
+  float: right;
+  border-radius: 3px;
+ }
